@@ -1,3 +1,9 @@
+# study material for  C -programming
+
+http://www.tenouk.com/ModuleW.html ( basic of program compilation)
+
+
+
 # Study-material
 
 # heading for OS:
