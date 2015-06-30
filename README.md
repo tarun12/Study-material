@@ -1,7 +1,7 @@
 # study material for  C -programming
 
 http://www.tenouk.com/ModuleW.html ( basic of program compilation)
-
+2.https://www.youtube.com/watch?v=_8-ht2AKyH4( heap and stack)
 
 
 # Study-material
