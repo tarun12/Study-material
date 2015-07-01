@@ -1,3 +1,9 @@
+#Maths amazing question
+
+http://mathforum.org/dr.math/faq/faq.two.trains.html
+
+
+
 # study material for  C -programming
 
 http://www.tenouk.com/ModuleW.html ( basic of program compilation)
