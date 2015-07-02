@@ -2,7 +2,9 @@
 
 http://mathforum.org/dr.math/faq/faq.two.trains.html
 
+#study material for DATA structure
 
+https://www.youtube.com/watch?v=htzJdKoEmO0
 
 # study material for  C -programming
 
