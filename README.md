@@ -19,4 +19,6 @@ http://www.tenouk.com/ModuleW.html ( basic of program compilation)
 http://learnlinuxconcepts.blogspot.in/2014/10/this-blog-is-to-help-those-students-and.html
 
 
+https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html
+
 
