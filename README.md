@@ -5,6 +5,7 @@ http://mathforum.org/dr.math/faq/faq.two.trains.html
 #study material for DATA structure
 
 https://www.youtube.com/watch?v=htzJdKoEmO0
+https://www.youtube.com/user/mycodeschool/videos
 
 # study material for  C -programming
 
