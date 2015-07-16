@@ -1,5 +1,7 @@
 #Maths amazing question
 
+
+http://www.mathsisfun.com/puzzles/5-pirates-solution.html
 http://mathforum.org/dr.math/faq/faq.two.trains.html
 
 #study material for DATA structure
