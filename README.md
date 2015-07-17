@@ -25,3 +25,6 @@ http://learnlinuxconcepts.blogspot.in/2014/10/this-blog-is-to-help-those-student
 https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html
 
 
+tiny URL design
+http://algorithmsandme.com/2015/04/design-a-tinyurl-system/
+
