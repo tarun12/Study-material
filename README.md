@@ -1,3 +1,6 @@
+#adobe:
+http://gohired.in/2014/03/adobe-aptitude-c-language-written-test/
+
 #Maths amazing question
 
 
