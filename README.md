@@ -9,6 +9,8 @@ http://mathforum.org/dr.math/faq/faq.two.trains.html
 
 #study material for DATA structure
 
+http://www.bogotobogo.com/cplusplus/quiz_bit_manipulation.php  : nice site for learning
+
 https://www.youtube.com/watch?v=htzJdKoEmO0
 https://www.youtube.com/user/mycodeschool/videos
 
