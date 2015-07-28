@@ -42,4 +42,7 @@ https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html
 
 tiny URL design
 http://algorithmsandme.com/2015/04/design-a-tinyurl-system/
+http://www.tecmint.com/ls-command-interview-questions/
+linux questions:
+
 
