@@ -46,3 +46,6 @@ http://www.tecmint.com/ls-command-interview-questions/
 linux questions:
 
 
+for embedded programming:
+
+https://wolfpaulus.com/journal/embedded/raspberrypi2-sr/#more-5719
