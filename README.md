@@ -49,3 +49,7 @@ linux questions:
 for embedded programming:
 
 https://wolfpaulus.com/journal/embedded/raspberrypi2-sr/#more-5719
+
+
+https://www.quora.com/What-are-the-best-Python-scripts-youve-ever-written
+http://usingpython.com/programs/
